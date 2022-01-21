@@ -1,0 +1,98 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 54122
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.3
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+Bookmarks: 144482
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 4.490002
+
+[Metadata]
+Title:Don't Fight The Music
+TitleUnicode:Don’t Fight The Music
+Artist:Chroma
+ArtistUnicode:黒魔
+Creator:Shion Maker
+Version:HS
+Source:オンゲキ
+Tags:プロセカ pjsk Chunithm
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:4.2
+OverallDifficulty:7
+ApproachRate:9.7
+SliderMultiplier:2.5
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"Don't Fight The Music.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1509,307.692307692308,4,1,1,32,1,0
+1816,-100,4,1,1,32,0,0
+6432,307.692307692307,7,1,1,32,1,0
+8431,307.692307692308,7,1,1,32,1,0
+10431,307.692307692308,5,1,1,32,1,0
+13507,307.692307692308,4,1,1,32,1,0
+17199,-1000,4,1,1,5,0,0
+17507,307.692307692308,4,1,1,32,1,0
+19968,-100,4,1,1,32,0,0
+54430,300,4,1,1,62,1,1
+64030,-125,4,1,1,42,0,1
+68830,-100,4,1,1,52,0,1
+73630,-1000,4,1,1,5,0,0
+73930,300,4,1,1,32,1,0
+78430,315.78947368421,4,1,1,15,1,0
+88535,500,4,1,1,12,1,0
+89535,545.454545454545,4,1,1,10,1,0
+90625,750,4,1,1,7,1,0
+95125,-1000,4,1,1,5,0,0
+95875,315.789473684211,4,1,1,32,1,0
+96190,315.789473684211,4,1,1,32,1,0
+103768,333.333333333333,4,1,1,32,1,0
+105101,363.636363636363,4,1,1,32,1,0
+107282,300,4,1,1,62,1,1
+116882,-125,4,1,1,42,0,1
+121682,-100,4,1,1,52,0,1
+126483,-1000,4,1,1,5,0,0
+126782,-100,4,1,1,62,0,1
+136082,-100,4,1,1,52,0,0
+144482,-100,4,1,1,32,0,0
+149282,-100,4,1,1,22,0,0
+151682,-100,4,1,1,42,0,0
+154682,-1000,4,1,1,5,0,0
+154982,-100,4,1,1,47,0,0
+
+
+[Colours]
+Combo1 : 52,126,255
+Combo2 : 255,79,52
+Combo3 : 52,255,181
+Combo4 : 255,52,126
+Combo5 : 52,228,255
+Combo6 : 255,181,52
+
+[HitObjects]
+256,192,1509,5,0,0:2:0:0:
